@@ -1,3 +1,3 @@
 # My name is Eliamar
 
-I've doing some javascript stuff for a while.
+I've been doing some Javascript stuff for a while.
