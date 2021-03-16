@@ -1,3 +1,5 @@
-# My name is Eliamar
+# Hey there 👋
 
-I've been doing some Javascript stuff for a while.
+I'm Eliamar, a software developer. I've been working as frontend engineer.
+
+Love Javascript and CSS.
