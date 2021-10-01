@@ -1,5 +1,11 @@
-# Hey there 👋
+# Hi 👋, I'm Eliamar
 
-I'm Eliamar, a software developer. I've been working as frontend engineer.
+## Frontend engineer (Previously Fullstack developer)
 
-Love Javascript and CSS.
+- 🔭 I’m currently working at [Mercedes-Benz.io](https://mercedes-benz.io)
+- 🤝 I’m looking for help with vue-chk & vue-chocolat
+
+## Connect with me:
+
+- [Linkedin](https://linkedin.com/in/eliamartani)
+- [Instagram](https://instagram.com/el_iamar)
